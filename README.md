@@ -1,2 +1,4 @@
 # tool_random_sms
-Nothing
+
+Script untung mengirim random sms (bomb
+Memakai API SMS lewat server khusus 
